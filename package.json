@@ -39,5 +39,15 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-guyana/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": []
+      }
+    ]
   }
 }
