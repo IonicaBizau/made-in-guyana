@@ -46,7 +46,48 @@
         "h2": "Contents"
       },
       {
-        "ul": []
+        "ul": [
+          "[Java](#java)"
+        ]
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "107",
+              "[@JoshuaKissoon](https://github.com/JoshuaKissoon)/[**Kademlia**](https://github.com/JoshuaKissoon/Kademlia)",
+              "A Java implementation of Kademlia Routing Protocol and DHT",
+              ""
+            ],
+            [
+              "11",
+              "[@JoshuaKissoon](https://github.com/JoshuaKissoon)/[**DOSNA**](https://github.com/JoshuaKissoon/DOSNA)",
+              "DOSNA (Distributed Online Social Network Architecture) is an Architecture that can serve as a core for DOSNs.",
+              ""
+            ],
+            [
+              "5",
+              "[@JoshuaKissoon](https://github.com/JoshuaKissoon)/[**SocialKademlia**](https://github.com/JoshuaKissoon/SocialKademlia)",
+              "Kademlia Routing Protocol with improvements for Decentralized Social Networks.",
+              ""
+            ],
+            [
+              "2",
+              "[@JoshuaKissoon](https://github.com/JoshuaKissoon)/[**Likir**](https://github.com/JoshuaKissoon/Likir)",
+              "Likir is a DHT designed and initially developed by some university students. More info found here http://likir.di.unito.it/details.html",
+              ""
+            ]
+          ]
+        }
       }
     ]
   }
